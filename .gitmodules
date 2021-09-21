@@ -1,4 +1,4 @@
 [submodule "msdfgen"]
 	path = msdfgen
 	url = https://github.com/HighLo-Engine/msdfgen
-	dirty = true
+	ignore = dirty
